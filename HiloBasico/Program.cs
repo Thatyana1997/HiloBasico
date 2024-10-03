@@ -18,7 +18,7 @@ namespace HiloBasico
             hilo2.Start(); 
         }
 
-        public static void FuncionHilo()
+        public static void FuncionHilo() 
         {
             for(int i=0; i<10;i++)
             {
