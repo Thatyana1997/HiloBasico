@@ -15,7 +15,7 @@ namespace HiloBasico
             Thread hilo2 = new Thread(FuncionHilo2);
 
             hilo1.Start();
-            hilo2.Start();
+            hilo2.Start(); 
         }
 
         public static void FuncionHilo()
